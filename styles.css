@@ -12,13 +12,12 @@ img{
 	display:flex;
 	justify-content:space-evenly;
 }
-.news{
+.latest-news-section{
 	display:flex;
 	flex-direction:column;
 	background-color:white;
-	
 }
-.pic{
+.pictorial-news-section{
 	display:flex;
 	flex-direction:column;
 	background-color:white;
