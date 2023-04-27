@@ -1,4 +1,4 @@
-h1{
+header{
 	background-color: #011e29;
 	color:white;
 	text-align:center;
@@ -16,15 +16,18 @@ img{
 	display:flex;
 	flex-direction:column;
 	background-color:white;
+	text-align:center;
 }
 .pictorial-news-section{
 	display:flex;
 	flex-direction:column;
 	background-color:white;
+	text-align:center;
 }
 .article{
 	display:flex;
 	flex-direction:column;
 	background-color:white;
+	text-align:center;
 }
 
